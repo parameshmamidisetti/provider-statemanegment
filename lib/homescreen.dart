@@ -52,7 +52,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   return Expanded(
                     child: Text(
                       "${data.value}",
-                      style: TextStyle(fontSize: 50),
+                      style: TextStyle(fontSize: 60),
                     ),
                   );
                 },
